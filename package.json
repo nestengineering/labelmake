@@ -1,0 +1,19 @@
+{
+  "name": "labelmake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestengineering/labelmake.git"
+  },
+  "author": "hand-dot <kyouhei.fukuda0729@gmail.com> (https://github.com/hand-dot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestengineering/labelmake/issues"
+  },
+  "homepage": "https://github.com/nestengineering/labelmake#readme"
+}
